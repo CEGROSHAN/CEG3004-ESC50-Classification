@@ -22,10 +22,7 @@ This project implements a robust audio classification pipeline for the **ESC-50*
 ```
 CEG3004-Pr_27/
 ├── CEG3004_Project_Colab.ipynb   # Main notebook — all code
-├── README.md                     # This file
-└── figures/
-    ├── confusion_matrix.png      # Validation confusion matrix
-    └── feature_visualisation.png # Spectrogram comparison (clean/noisy/bandlimited)
+└── README.md                     # This file
 ```
 
 > The model file (`Pr_27_model.joblib`) and predictions (`Pr_27_predictions.csv`) are submitted to xsite Dropbox — not stored in this repo due to file size.
